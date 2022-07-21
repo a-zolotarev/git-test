@@ -7,3 +7,5 @@ test-2_test-2_test-2
 ###### The smallest heading
 
 _This text is italicized_ or *Этот текст выделен курсивом*
+> Text that is a quote
+>Text that is a quote
