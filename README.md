@@ -1,3 +1,4 @@
+<img width="642" alt="функция поиска ключей по определенному значению" src="https://user-images.githubusercontent.com/88565812/180254559-155d2778-d053-40b8-8577-dc48fc84a055.png">
 # gitTest
 
 test_test_test
